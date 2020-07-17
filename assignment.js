@@ -57,16 +57,15 @@ function tinyFriend(friendName){
         }
     }
     if(tinyFriendName == ''){
-        return 'this is a empty String';
+        return 'empty String is the smallest name in this array';
     }
     else {
         return tinyFriendName;
     }
-    
 }
 
 
 console.log(feetToMile(40000));
 console.log(WoodCalculator(1,0,6));
 console.log(brickCalculator(34));
-console.log(tinyFriend(['arif','saju', 'kaee','dul','e']));
+console.log(tinyFriend(['ab','saju', 'kaee','dul','ekk']));
