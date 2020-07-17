@@ -9,7 +9,7 @@ function feetToMile(feet){
 }
 
 
-function WoodCalculator(chair, table, bed){
+function woodCalculator(chair, table, bed){
     if(chair < 0 || table < 0  || bed < 0 ){
         return "Quantity won't be negative. Please drop a positive Quantity";
     }
