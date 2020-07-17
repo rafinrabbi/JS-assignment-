@@ -66,6 +66,6 @@ function tinyFriend(friendName){
 
 
 console.log(feetToMile(40000));
-console.log(WoodCalculator(1,0,6));
+console.log(woodCalculator(1,0,6));
 console.log(brickCalculator(34));
 console.log(tinyFriend(['ab','saju', 'kaee','dul','ekk']));
